@@ -28,7 +28,7 @@ I'm a passionate software developer with a keen interest in Java,SpringBoot, Ser
 
 
 ## 📫 Connect with Me
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)[(https://www.linkedin.com/in/jeevanandham-r-7aa0692b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)]
+![LinkedIn][(https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/jeevanandham-r-7aa0692b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)]
 <!---
 JeevaCodes/JeevaCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
