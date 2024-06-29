@@ -3,12 +3,12 @@
 
 ## 🚀 About Me
 
-I'm a passionate software developer with a keen interest in Java,SpringBoot, Servlets,  APIs, MicroServices, Database SQL & NoSql. With a Experience of 2 Years , I love tackling complex problems and turning ideas into reality through code.
+I'm a passionate software developer with a keen interest in Java, SpringBoot, Servlets,  MicroServices, REST APIs, MongoDB, MySQL. With a Experience of 3.5 Years , I love tackling complex problems and turning ideas into reality through code.
 
 - 🌍 I’m based in Chennai
 - 🌱 I’m currently learning Docker & Kubernates
 - 📫 How to reach me: Jeevanandhamramesh@gmail.com
-- ⚡ Fun fact: Gamer
+- ⚡ Fun fact: When I'm not coding, you can find me exploring the latest tech gadgets or diving into the world of gaming. Whether it's conquering new virtual worlds or tinkering with cutting-edge devices, I love staying at the forefront of technology!
 
 ## 🛠️ Tech Stack
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
