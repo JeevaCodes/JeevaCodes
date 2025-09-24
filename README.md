@@ -6,7 +6,7 @@
 I'm a passionate developer with a keen interest in Java, SpringBoot, Servlets,  MicroServices, REST APIs, MongoDB, MySQL. With a Experience of around 4 Years , I love tackling complex problems and turning ideas into reality through code.
 
 - 🌍 I’m based in Chennai
-- 🌱 I’m currently learning Docker & Kubernates
+- 🌱 upskilling myself with my ultimate roadmap 
 - 📫 How to reach me: dev.Jeevanandham@gmail.com
 - ⚡ Fun fact: When I'm not coding, you can find me exploring the latest tech gadgets or diving into the world of gaming. Whether it's conquering new virtual worlds or tinkering with cutting-edge devices, I love staying at the forefront of technology!
 
